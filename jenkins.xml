@@ -17,7 +17,7 @@
      <configVersion>2</configVersion>
      <userRemoteConfigs>
        <hudson.plugins.git.UserRemoteConfig>
-         <url>https://github.com/sserhan/m1a2019_tdd_samy_serhan.git</url>
+         <url> </url>
        </hudson.plugins.git.UserRemoteConfig>
      </userRemoteConfigs>
      <branches>
